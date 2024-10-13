@@ -1,0 +1,15 @@
+langchain==0.2.12
+pandas==1.5.0
+pydantic==1.10.8
+snowflake_snowpark_python==1.5.0
+snowflake-snowpark-python[pandas]
+streamlit==1.31.0
+supabase==2.4.1
+unstructured
+tiktoken
+openai
+black
+langchain_openai
+langchain-community
+langchain-core
+langchain-anthropic
